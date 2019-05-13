@@ -1,3 +1,3 @@
 // Code your solution in this file!
-const companyName = 'Scuba'
+const companyName = 'Scuber'
 let mostProfitableNeighborhood = 'Chelsea'
